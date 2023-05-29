@@ -7,6 +7,11 @@
            Fibonacciseries series = new Fibonacciseries();
           series.GenerateFibonacciSeries();
 
+
+            Perfectnumber perfectnumber = new Perfectnumber();
+            perfectnumber.GeneratePerfectNumber();
+
+
         }
     }
 }
