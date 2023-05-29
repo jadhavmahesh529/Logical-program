@@ -14,6 +14,8 @@
             Primenumber primenumber = new Primenumber();    
             primenumber.GeneratePrimeNumber();
 
+            Reversenumber reversenumber = new Reversenumber();  
+            reversenumber.GenerateReverseNumber();
         }
     }
 }
