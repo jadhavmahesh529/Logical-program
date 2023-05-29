@@ -11,6 +11,8 @@
             Perfectnumber perfectnumber = new Perfectnumber();
             perfectnumber.GeneratePerfectNumber();
 
+            Primenumber primenumber = new Primenumber();    
+            primenumber.GeneratePrimeNumber();
 
         }
     }
